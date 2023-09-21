@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Stirio</string>
+    <string name="tagline">Stir Sizzle Savour</string>
+    <string name="made_by">Made with 💚 By Utkarsh</string>
 </resources>
